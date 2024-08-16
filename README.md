@@ -1,4 +1,4 @@
-<div class="header"> </div>
+<div class="header"> Header </div>
 .header {
   padding: 60px;
   text-align: center;
