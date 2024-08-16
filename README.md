@@ -1,12 +1,3 @@
-<div class="header"> Header </div>
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
-  
 <h1 align="center">✨Hello, I'm Ujjwala Pothula!✨</h1>
 <h3 align="center"> Aspiring Software Engineer </h3>
 
