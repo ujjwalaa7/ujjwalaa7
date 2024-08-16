@@ -6,6 +6,8 @@
 <h3 align="center">Connect with me:</h3>
 <a align="center" href="https://linkedin.com/in/ujjwalap16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalap16" height="30" width="40" /></a>
 <a href="https://discord.gg/ujjwalaa_53466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ujjwalaa_53466" height="30" width="40" /></a>
+<a href="mailto:ujjwalap.16@gmail.com"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
