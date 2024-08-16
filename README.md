@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Ujjwala Pothula!</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">✨Hello, I'm Ujjwala Pothula!✨</h1>
+<h3 align="center"> Aspiring Software Engineer </h3>
 
 <h2 align="center">✨Connect with me✨</h2>
 <div align="center">
